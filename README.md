@@ -43,7 +43,7 @@ pip install PyPDF2 langchain faiss numpy scikit-learn
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-usrname/rag-pipeline.git
+   git clone https://github.com/thummadeepthi/rag-pipeline.git
    cd rag-pipeline
    ```
 
@@ -76,12 +76,4 @@ The system retrieves relevant information from the PDFs and generates a detailed
 
 - `script_name.py`: Main script implementing the RAG pipeline.
 - `README.md`: Documentation for the project.
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
