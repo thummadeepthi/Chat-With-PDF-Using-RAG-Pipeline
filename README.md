@@ -1,5 +1,4 @@
 # Chat-With-PDF-Using-RAG-Pipeline
-# Retrieval-Augmented Generation (RAG) Pipeline for PDF Interaction
 
 ## Overview
 
